@@ -11,6 +11,14 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/BapDev06?tab=followers">
+    <img src="https://img.shields.io/github/followers/BapDev06?style=for-the-badge&amp;color=FF7A1A&amp;labelColor=0D0D0D&amp;logo=github&amp;logoColor=FF7A1A&amp;label=Followers" alt="GitHub followers" />
+  </a>
+
+  <img src="https://hits.sh/github.com/BapDev06.svg?style=for-the-badge&amp;label=Profile%20Views&amp;color=FF7A1A&amp;labelColor=0D0D0D" alt="Profile views" />
+</p>
+
+<p align="center">
   <a href="https://github.com/BapDev06"><img src="https://img.shields.io/badge/GitHub-BapDev06-0D0D0D?style=for-the-badge&amp;logo=github&amp;logoColor=FF7A1A" alt="GitHub BapDev06" /></a>
   <img src="https://img.shields.io/badge/Based%20in-Vietnam-7A2E0E?style=for-the-badge" alt="Based in Vietnam" />
   <img src="https://img.shields.io/badge/Focus-Fullstack-FF7A1A?style=for-the-badge" alt="Fullstack development" />
@@ -72,7 +80,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode&amp;theme=dark" alt="Git, GitHub and Visual Studio Code" />
 </p>
 
-## 📊 GitHub activity
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/BapDev06?tab=repositories">
@@ -85,7 +93,7 @@
 
 <p align="center"><sub>Generated from GitHub activity. Cards may be cached or temporarily unavailable.</sub></p>
 
-## 🤝 Let's connect
+## 🤝 Connect With Me
 
 <!-- CONTACT SETUP
 These badges are intentionally not linked yet. To make one clickable,
