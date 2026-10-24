@@ -24,14 +24,15 @@
 
 ---
 
-## 👋 About me
+## 👋 About Me
 
-Hi, I'm **Ngo Nhat Tuan**, focused on **full-stack development**.
-
-I build web applications that connect intuitive interfaces, backend logic, and relational databases.
-
-- **Focus:** practical solutions, clear code, and a smooth user experience.
-- **Approach:** continuous learning and effective teamwork with Git.
+- 👨‍💻 I'm **Ngo Nhat Tuan**, focused on **full-stack development**.
+- 🎓 I'm studying at **Ho Chi Minh City Open University**.
+- 🌱 I'm continuously learning **modern web technologies and development tools**.
+- 🤝 I'm interested in collaborating on **web applications and open-source projects**.
+- 💬 Let's talk about **frontend, backend, and relational databases**.
+- 📫 Reach me at **[ngotuan150706@gmail.com](mailto:ngotuan150706@gmail.com)**.
+- ⚡ Fun fact: Every bug is another opportunity to **learn something new**.
 
 ## 🛠️ Technologies & tools
 
