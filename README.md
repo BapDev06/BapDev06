@@ -84,7 +84,7 @@
 
 <p align="center">
   <a href="https://github.com/BapDev06?tab=repositories">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BapDev06&amp;show_icons=true&amp;hide_rank=true&amp;hide_border=true&amp;bg_color=0D0D0D&amp;title_color=FF7A1A&amp;icon_color=FF7A1A&amp;text_color=E5E5E5&amp;border_radius=12" alt="BapDev06's GitHub statistics" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BapDev06&amp;show_icons=true&amp;hide_rank=false&amp;ring_color=FF7A1A;hide_border=true&amp;bg_color=0D0D0D&amp;title_color=FF7A1A&amp;icon_color=FF7A1A&amp;text_color=E5E5E5&amp;border_radius=12" alt="BapDev06's GitHub statistics" />
   </a>
   <a href="https://github.com/BapDev06">
     <img width="50%" src="https://streak-stats.demolab.com?user=BapDev06&amp;hide_border=true&amp;background=0D0D0D&amp;ring=FF7A1A&amp;fire=FF7A1A&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=FF7A1A&amp;sideLabels=B3B3B3&amp;dates=888888&amp;border_radius=12" alt="BapDev06's GitHub contribution streak" />
